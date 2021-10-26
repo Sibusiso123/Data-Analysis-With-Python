@@ -1,0 +1,2 @@
+# Data-Analysis-With-Python
+In this module, you'll learn about an example around estimating used car prices that we will analyze in this course, using Python. Then we will introduce an overview of Python packages used for data analysis. And finally, you will learn about how to import and export data in and from Python, and how to obtain basic insights from the dataset on used cars and their prices.
